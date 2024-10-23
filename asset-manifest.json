@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Gadgets/static/css/main.7ee9edeb.css",
+    "main.js": "/React_Gadgets/static/js/main.7f6bbf5c.js",
+    "index.html": "/React_Gadgets/index.html",
+    "main.7ee9edeb.css.map": "/React_Gadgets/static/css/main.7ee9edeb.css.map",
+    "main.7f6bbf5c.js.map": "/React_Gadgets/static/js/main.7f6bbf5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ee9edeb.css",
+    "static/js/main.7f6bbf5c.js"
+  ]
+}
