@@ -17,7 +17,7 @@ function App() {
       <Route path='/quiz' element={<Quiz />}></Route>
       <Route path='/weather' element={<Weather />}></Route>
       <Route path='/calculator' element={<Calculator />}></Route>
-      <Route path='/' element={<Home />}></Route>
+      <Route path='/React_Gadgets/' element={<Home />}></Route>
     </Routes>
     </main>
     </Router>
